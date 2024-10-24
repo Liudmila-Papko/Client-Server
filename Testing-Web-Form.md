@@ -2,7 +2,7 @@
 
 [Ссылка на файл с решениями](https://docs.google.com/spreadsheets/d/1NonUWWGwGSigk5PTiFRcn5XWJK2HCal5g2NTjKPAJsc/edit?usp=sharing)
   
-###Требования:
+### Требования:
 
 - Форма для регистрации http://itcareer.pythonanywhere.com/ 
 - Environment: web, можно проверить верстку под разное разрешение экрана. 
